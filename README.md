@@ -16,6 +16,11 @@ This project is focused on:
 > 🎯 **Goal**: Present actionable insights from IPL 2008 to 2022 in a visually engaging and data-driven format using Power BI.
 
 ---
+## 📸 Dashboard Preview
+
+![IPL Dashboard](./screenshots/dashboard.png)
+
+--- 
 
 ## 🧠 Skills Showcased
 
